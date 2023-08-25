@@ -1,3 +1,7 @@
+.nav{
+    justify-content: end;
+    color: blueviolet;
+}
 .nav a.nav-link{
 font-family: 'Times New Roman', Times, serif;
 color: azure;

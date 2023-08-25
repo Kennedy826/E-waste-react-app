@@ -9,7 +9,7 @@ const navbar = () => {
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarNav">
-      <ul className="navbar-nav ml-auto">
+      <ul className="navbar-nav ml-auto nav justify-content-end">
         <li class="nav-item active">
           <a className="nav-link" href="/#">Home </a>
         </li>
@@ -22,7 +22,6 @@ const navbar = () => {
       </ul>
     </div>
   </nav>
-   
   )
 }
 
